@@ -1,0 +1,4 @@
+sample_id	Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	cytoBand	avsnp150
+S003	7	300001	300001	A	G	intronic	CFTR	.	.	.	.	demo_rs_NONMATCH
+S003	2	300002	300002	C	T	exonic	GENE_X	.	synonymous SNV	GENE_X:NM_demo:exon1:c.C>T:p.Ser=	.	demo_rs_SYNONYMOUS
+S003	3	300003	300003	G	A	intergenic	.	.	.	.	.	demo_rs_INTERGENIC

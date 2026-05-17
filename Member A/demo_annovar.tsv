@@ -1,0 +1,8 @@
+sample_id	Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	cytoBand	1000g2015aug_all	1000g2015aug_eas	1000g2015aug_sas	ExAC_ALL	ExAC_AFR	ExAC_AMR	ExAC_EAS	ExAC_FIN	ExAC_NFE	ExAC_OTH	ExAC_SAS	avsnp150	esp6500siv2_all	esp6500siv2_ea
+S001	10	100001	100001	G	A	exonic	CYP2C19	.	nonsynonymous SNV	CYP2C19:NM_demo:exon1:c.G>A:p.demo	.	.	.	.	.	.	.	.	.	.	.	.	demo_rs_CYP2C19	.	.
+S001	6	100002	100002	C	T	exonic	TPMT	.	nonsynonymous SNV	TPMT:NM_demo:exon1:c.C>T:p.demo	.	.	.	.	.	.	.	.	.	.	.	.	demo_rs_TPMT	.	.
+S001	13	100003	100003	A	G	exonic	NUDT15	.	nonsynonymous SNV	NUDT15:NM_demo:exon1:c.A>G:p.demo	.	.	.	.	.	.	.	.	.	.	.	.	demo_rs_NUDT15	.	.
+S001	22	100004	100004	C	A	exonic	CYP2D6	.	nonsynonymous SNV	CYP2D6:NM_demo:exon1:c.C>A:p.demo	.	.	.	.	.	.	.	.	.	.	.	.	demo_rs_CYP2D6	.	.
+S001	16	100005	100005	G	T	exonic	VKORC1	.	nonsynonymous SNV	VKORC1:NM_demo:exon1:c.G>T:p.demo	.	.	.	.	.	.	.	.	.	.	.	.	demo_rs_VKORC1	.	.
+S001	1	100006	100006	T	C	splicing	DPYD	.	.	DPYD:NM_demo:splicing	.	.	.	.	.	.	.	.	.	.	.	.	demo_rs_DPYD	.	.
+S001	7	100007	100007	A	G	intronic	CFTR	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	demo_rs_NONMATCH	.	.

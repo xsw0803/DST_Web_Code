@@ -1,0 +1,4 @@
+sample_id	Chr	Start	End	Ref	Alt	Func.refGene	Gene.refGene	GeneDetail.refGene	ExonicFunc.refGene	AAChange.refGene	cytoBand	avsnp150
+S001	10	100001	100001	G	A	exonic	CYP2C19	.	nonsynonymous SNV	CYP2C19:NM_demo:exon1:c.G>A:p.demo	.	demo_rs_CYP2C19
+S001	6	100002	100002	C	T	exonic	TPMT	.	nonsynonymous SNV	TPMT:NM_demo:exon1:c.C>T:p.demo	.	demo_rs_TPMT
+S001	13	100003	100003	A	G	exonic	NUDT15	.	nonsynonymous SNV	NUDT15:NM_demo:exon1:c.A>G:p.demo	.	demo_rs_NUDT15
